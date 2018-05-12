@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31348'
     url: http://www.gutenberg.org/2009/agents/31348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27971#A-Lover-s-Litanies
 gutenberg_issued: '2009-02-03'
 gutenberg_type: Text
 identifiers:
