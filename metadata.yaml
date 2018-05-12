@@ -1,0 +1,26 @@
+_repo: A-Lover-s-Litanies_27971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mackay, Eric
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '31348'
+    url: http://www.gutenberg.org/2009/agents/31348
+description: ''
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: A Lover's Litanies
+url: http://www.gutenberg.org/ebooks/27971
